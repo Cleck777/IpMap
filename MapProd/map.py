@@ -35,7 +35,7 @@ class Map:
         my_map.save("map.html")
        
         
-        webbrowser.open_new_tab("file:/Users/chaseleckinger/Desktop/MapProd/map.html")
+        webbrowser.open_new_tab("DIRECTORY")
 
     """def getIP(addr):g
         command = ['dig', '+short', "brockport.edu"]
